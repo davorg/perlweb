@@ -3324,6 +3324,25 @@
       "unsub" : "http://aspn.activestate.com/ASPN/Mail/my",
       "url" : "http://aspn.activestate.com/ASPN/Mail/About/perl-unix-users/"
    },
+   "perl-weekly" : {
+      "archive" : "https://perlweekly.com/archive/",
+      "category" : "News",
+      "comments" : "",
+      "date_last_confirmed_active" : null,
+      "defunct" : "0",
+      "help" : null,
+      "keywords" : "",
+      "module" : "",
+      "name" : "perl-weekly",
+      "nntp" : null,
+      "rssfeed" : "https://perlweekly.com/perlweekly.rss",
+      "source" : null,
+      "sub" : "https://perlweekly.com/subscribe.html",
+      "summary" : "A free, weekly e-mail round-up of hand-picked news and articles about Perl.",
+      "tags" : "News",
+      "unsub" : null,
+      "url" : "https://perlweekly.com/"
+   },
    "perl-xml" : {
       "archive" : "http://aspn.activestate.com/ASPN/Mail/Archives/perl-xml/",
       "category" : "XML",
