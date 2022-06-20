@@ -3617,25 +3617,6 @@
       "unsub" : "Send an empty email to mailto: perl6-users-unsubscribe@perl.org",
       "url" : "http://www.perl.org/perl6/"
    },
-   "perlanet" : {
-      "archive" : null,
-      "category" : null,
-      "comments" : null,
-      "date_last_confirmed_active" : null,
-      "defunct" : "1",
-      "help" : null,
-      "keywords" : null,
-      "module" : null,
-      "name" : "perlanet",
-      "nntp" : null,
-      "rssfeed" : null,
-      "source" : null,
-      "sub" : "http://lists.mag-sol.com/mailman/listinfo/perlanet",
-      "summary" : null,
-      "tags" : "",
-      "unsub" : "http://lists.mag-sol.com/mailman/listinfo/perlanet",
-      "url" : null
-   },
    "perlcertification" : {
       "archive" : null,
       "category" : null,
